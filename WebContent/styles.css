@@ -4,7 +4,7 @@
 
 body {
 	background-image: url("Photo.jpg");
-	font-family: 'Segoe UI','Open Sans', 'Helvetica Neue', sans-serif;
+	font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 #topmid {
@@ -21,8 +21,8 @@ body {
 .tab {
 	font-weight: bold;
 	margin: auto;
-	width:35%;
-	text-align:center;
+	width: 35%;
+	text-align: center;
 }
 
 .tab tr {
@@ -30,12 +30,12 @@ body {
 	border-radius: 10px;
 	background-color: #FFE5CC;
 	font-size: 22px;
-	float:left;
-	padding-left:17%;
-	padding-bottom:5px;
-	padding-top:2px;
-	margin-bottom:10px;
-	width:100%;
+	float: left;
+	padding-left: 17%;
+	padding-bottom: 5px;
+	padding-top: 2px;
+	margin-bottom: 10px;
+	width: 100%;
 }
 
 a:hover {
@@ -47,33 +47,31 @@ a:link {
 	text-decoration: none;
 }
 
-header  nav li :hover{
+header  nav li :hover {
 	border-bottom: 2px #ffff80 solid;
 	border-radius: 10px;
 	color: #ffff80;
-	padding-bottom:2px;
+	padding-bottom: 2px;
 }
 
-header  nav li{
-    display: table;
-    height: 80%;
-    float: left;
-    margin-right: 20px;
+header  nav li {
+	display: table;
+	height: 80%;
+	float: left;
+	margin-right: 20px;
 	padding-left: 10px;
-
 }
 
-header  nav a{
-    color: #ffffff;
+header  nav a {
+	color: #ffffff;
 }
 
 header nav li a.active {
 	border-bottom: 2px #ffff80 solid;
 	border-radius: 10px;
 	color: #ffff80;
-	padding-bottom:2px;
+	padding-bottom: 2px;
 }
-
 
 .holds-the-iframe {
 	background: url(loader.gif) center center no-repeat;
