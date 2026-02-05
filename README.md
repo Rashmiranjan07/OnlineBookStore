@@ -51,6 +51,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 3. Database:
 - MySql
 
+<!--
 ### ================ Software And Tools Required ================
 - : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
 - : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
@@ -59,7 +60,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - : Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
 - : MySQL Server [https://www.youtube.com/watch?v=Ydh5jYA6Frs]
 - : MySQL Workbench (optional) [https://www.youtube.com/watch?v=t79oCeTXHwg]
-
+-->
 ### ================= Dummy Database Initialization =================
 
 STEP 1: Open MySQL Command Prompt or MySQL Workbench
