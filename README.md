@@ -1,9 +1,9 @@
 # <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> OnlineBookStore </a> 
 - A Java Web Developement Project
-<!--Check out the Live website demo: [https://theonlinebookstore.herokuapp.com](https://theonlinebookstore.herokuapp.com)-->
 - User Login Credentials: (demo/demo)
 - Admin Login Credentials: (Admin/Admin)
 <hr>
+<!--Check out the Live website demo: [https://theonlinebookstore.herokuapp.com](https://theonlinebookstore.herokuapp.com)-->
 
 ### About
 
